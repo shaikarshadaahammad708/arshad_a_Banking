@@ -10,6 +10,7 @@ public static void main(String[] args) {
 		System.out.println(number + " is not an even number.");
 		System.out.println("Please enter an even number.");
 		System.out.println("Try again with an even number.");
+		System.out.println("Remember, even numbers are divisible by 2.");
 	}
 }
 }
