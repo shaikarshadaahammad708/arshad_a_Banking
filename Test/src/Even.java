@@ -1,12 +1,14 @@
 
 public class Even {
 public static void main(String[] args) {
+	System.out.println("Enter a number to check if it is even or not:");
 	int number = 10; // You can change this number to test with different values
 
 	if (number % 2 == 0) {
 		System.out.println(number + " is an even number.");
 	} else {
 		System.out.println(number + " is not an even number.");
+		System.out.println("Please enter an even number.");
 	}
 }
 }
