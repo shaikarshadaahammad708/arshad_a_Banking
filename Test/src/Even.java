@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	} else {
 		System.out.println(number + " is not an even number.");
 		System.out.println("Please enter an even number.");
+		System.out.println("Try again with an even number.");
 	}
 }
 }
